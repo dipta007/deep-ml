@@ -2,8 +2,8 @@ from py_markdown_table.markdown_table import markdown_table
 import os
 
 data = """\
-# deep-ml  
-Problem solved in www.deep-ml.com
+# deep-ml 🧠
+Problem solved in [www.deep-ml.com](https://www.deep-ml.com/profile/Wp5ECnDrd1Zx82labqvNg8XDNPu2)
 
 """
 
