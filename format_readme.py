@@ -13,16 +13,14 @@ problems = os.listdir("problems")
 for problem in problems:
     problem_path = os.path.join("problems", problem)
     problem_name = problem.split(".")[0]
-    with open(problem_path, "r") as f:
-        problem_data = f.readline()
-        url = f.readline().strip()
-        table.append(
-            {
-                "problem_id": int(problem_name),
-                "problem_url": f"[🔗]({url})",
-                "solution": f"[./problems/{problem}](./problems/{problem})",
-            }
-        )
+    url = f"https://www.deep-ml.com/problems/{problem_name}"
+    table.append(
+        {
+            "problem_id": int(problem_name),
+            "problem_url": f"[🔗]({url})",
+            "solution": f"[./problems/{problem}](./problems/{problem})",
+        }
+    )
 
 table = sorted(table, key=lambda x: x["problem_id"])
 
