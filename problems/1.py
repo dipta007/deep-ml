@@ -1,5 +1,5 @@
 """
-https://www.deep-ml.com/problems/1?from=Machine%20Learning
+https://www.deep-ml.com/problems/1
 """
 
 
