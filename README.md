@@ -8,6 +8,7 @@ Problem solved in [www.deep-ml.com](https://www.deep-ml.com/profile/Wp5ECnDrd1Zx
 |     3    | [🔗](https://www.deep-ml.com/problems/3) |  [./problems/3.py](./problems/3.py)  |  
 |     4    | [🔗](https://www.deep-ml.com/problems/4) |  [./problems/4.py](./problems/4.py)  |  
 |     5    | [🔗](https://www.deep-ml.com/problems/5) |  [./problems/5.py](./problems/5.py)  |  
+|    10    | [🔗](https://www.deep-ml.com/problems/10)| [./problems/10.py](./problems/10.py) |  
 |    76    | [🔗](https://www.deep-ml.com/problems/76)| [./problems/76.py](./problems/76.py) |  
 |    83    | [🔗](https://www.deep-ml.com/problems/83)| [./problems/83.py](./problems/83.py) |  
 |    129   |[🔗](https://www.deep-ml.com/problems/129)|[./problems/129.py](./problems/129.py)|
