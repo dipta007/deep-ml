@@ -9,6 +9,8 @@ Problem solved in [www.deep-ml.com](https://www.deep-ml.com/profile/Wp5ECnDrd1Zx
 |     4    | [🔗](https://www.deep-ml.com/problems/4) |  [./problems/4.py](./problems/4.py)  |  
 |     5    | [🔗](https://www.deep-ml.com/problems/5) |  [./problems/5.py](./problems/5.py)  |  
 |    10    | [🔗](https://www.deep-ml.com/problems/10)| [./problems/10.py](./problems/10.py) |  
+|    14    | [🔗](https://www.deep-ml.com/problems/14)| [./problems/14.py](./problems/14.py) |  
+|    15    | [🔗](https://www.deep-ml.com/problems/15)| [./problems/15.py](./problems/15.py) |  
 |    76    | [🔗](https://www.deep-ml.com/problems/76)| [./problems/76.py](./problems/76.py) |  
 |    83    | [🔗](https://www.deep-ml.com/problems/83)| [./problems/83.py](./problems/83.py) |  
 |    129   |[🔗](https://www.deep-ml.com/problems/129)|[./problems/129.py](./problems/129.py)|
